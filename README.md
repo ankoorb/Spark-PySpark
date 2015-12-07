@@ -7,11 +7,11 @@
 
 ---
 
-## <font color=#008080>Notes on Spark using Python API (PySpark)</font>
+### <font color=#008080>Notes on Spark using Python API (PySpark)</font>
 
 Notes are based on material from BerkeleyX_CS100.1x, BerkeleyX_CS190.1x courses, the book **"Learning Spark"** by Holden Karau, Andy Konwinski, Patrick Wendell and Matei Zaharia, and some other online resources
 
 ---
 
-## <font color=#008080>Side Projects on Amazon Elastic Cloud Computing (EC2) by setting up Spark Clusters</font>
+### <font color=#008080>Side Projects on Amazon Elastic Cloud Computing (EC2) by setting up Spark Clusters</font>
 
